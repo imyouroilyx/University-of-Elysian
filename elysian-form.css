@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;700&family=Birthstone+Bounce:wght@400;500&display=swap');
+
+.eu-container { margin: auto; margin-bottom: 100px; font-family: 'Google Sans', sans-serif; max-width: 1100px; padding: 30px; background: #353535; }
+.eu-paper { margin: auto; background: white; padding: 50px 50px 100px 50px; color: #191919; font-size: 18px; position: relative; box-shadow: 0 0 30px rgba(0,0,0,0.8); overflow: hidden; }
+.eu-logo-top { max-width: 150px; filter: grayscale(100); display: block; margin: auto; }
+.eu-stamp-bottom { position: absolute; bottom: -80px; right: -130px; max-width: 250px; transform: rotate(-10deg); filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.8)) saturate(1.5); }
+.eu-approved { position: absolute; bottom: 120px; left: 50px; max-width: 300px; opacity: 0.8; pointer-events: none; }
+.eu-title { text-align: center; font-size: 25pt; font-weight: bold; margin-top: 20px; line-height: 1.2; }
+.eu-subtitle { text-align: center; line-height: 1.4; }
+.eu-divider { display: flex; align-items: center; text-align: center; margin: 20px 0; }
+.eu-line { flex: 1; height: 1px; background: #000; }
+.eu-indent { text-indent: 40px; margin-bottom: 30px; line-height: 1.6; }
+.eu-form-box { background: #f5f5f5; border: 1px solid #ccc; padding: 20px; text-align: left; font-size: 15px; margin-bottom: 20px; color: #333; line-height: 1.6; }
+/* แก้ไขขนาดรูปภาพภายในฟอร์ม */
+.eu-form-box img { max-width: 100% !important; height: auto !important; display: block; margin: 15px 0; border: 1px solid #ddd; }
+.eu-signature-box { text-align: right; font-size: 10pt; padding-right: 20px; margin-top: 30px; }
+.eu-signature-font { font-family: 'Birthstone Bounce', cursive; font-size: 45pt; margin: 5px 0; }
