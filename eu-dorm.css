@@ -1,0 +1,4 @@
+.eu-dorm{margin:auto;width:90%;padding:100px 30px;border-radius:5px;background:linear-gradient(to top,rgba(7,7,7,.9),rgba(15,15,15,.85)),var(--eu-dorm-bg) center/cover;font-family:"IBM Plex Sans Thai",sans-serif;text-shadow:0 0 30px #000;border:1px solid #430000;border-image:linear-gradient(to top,rgba(19,19,19,.8),rgba(255,255,255,.4)) 1}
+.eu-dorm-main{margin:auto auto 30px;aspect-ratio:18/9;background:var(--eu-dorm-main) center/cover;border-radius:7px;width:85%;box-shadow:0 0 20px 5px rgba(0,0,0,.2)}
+.eu-dorm-title{margin:auto auto 20px;font-size:30pt;font-weight:600;text-align:center}
+.eu-dorm-text{margin:auto;width:85%;text-align:justify}
