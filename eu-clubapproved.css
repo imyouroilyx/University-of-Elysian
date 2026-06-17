@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+.uniprove-wrap {
+  margin: auto;
+  border: 7px solid #538d44;
+  width: fit-content;
+  padding: 10px;
+}
+
+.uniprove {
+  text-align: center;
+  font-family: 'Google Sans', sans-serif;
+  padding: 15px;
+  border: 1px solid #538d44;
+  font-weight: bold;
+  color: #538d44;
+  font-size: 36px;
+  width: fit-content;
+}
